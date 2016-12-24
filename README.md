@@ -9,5 +9,5 @@ Powershell dot files
 **Windows**
 
 ```sh
-git clone https://roywes/.powershell.git ~/Documents/WindowsPowershell
+git clone https://github.com/roywes/.powershell.git ~/Documents/WindowsPowershell
 ```
